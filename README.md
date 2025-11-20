@@ -23,7 +23,7 @@
 ## Estatísticas do GitHub
 | Linguagens Principais | Sequência de Contribuição |
 |:-------------:|:-------------:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaqibul-Neil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Shaqibul-Neil&theme=dark&hide_border=false) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VTZanetti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=VTZanetti&theme=dark&hide_border=false) |
 
 [![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VTZanetti&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
