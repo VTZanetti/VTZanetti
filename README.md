@@ -2,10 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B5B5B&size=50&center=true&vCenter=true&width=1000&lines=VITOR+ZANETTI;🎓+Computer+Engineering;💻+Full-Stack+Developer;🤖+AI+and+Automation&font=Cascadia+Code)](https://git.io/typing-svg)
  
-## 👨‍💻 About Me
-- 🎓 Computer Engineering Student
-- 💼 Software Development Intern
-- 🤖 AI, Prompt Engineering and LLM development
+##  About Me
+-  Software Development Intern
+-  Computer Engineering Student
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=00ff00)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
@@ -35,21 +34,9 @@
 
 [![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VTZanetti&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-## 💼 Professional Experience
-
-**Software Development Intern** | Aug/2025 - Current
-
-- **Full-Stack Development:** Vue.js (frontend) and C#/.NET + PHP/Laravel (backend)
-- **AI Solutions:** Artificial Intelligence development, including Prompt Engineering, LLMs, n8n, low-code and Python
-- **Legacy Systems:** Evolution and maintenance of ERP systems in Delphi
-- **Database:** MySQL administration with HeidiSQL and Workbench
-- **Cloud Computing:** Microsoft Azure services implementation (SQL Database, Blob Storage)
-
 ---
 
-## 📞 Contact
+## Contact
 
 <div align="center">
 
