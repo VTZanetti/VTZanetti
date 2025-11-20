@@ -1,46 +1,41 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5B5B5B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B5B5B&size=50&center=true&vCenter=true&width=1000&lines=VITOR+ZANETTI;+Computer+Engineering;+Software+Developer;+AI+and+Automation&font=Cascadia+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B5B5B&size=50&center=true&vCenter=true&width=1000&lines=VITOR+ZANETTI;Desenvolvedor+De+Software+;IA+e+Automação+Empresarial;Engenheiro+Da+Computação&font=Cascadia+Code)](https://git.io/typing-svg)
  
-##  About Me
--  Software Development Intern
--  Computer Engineering Student
+## Sobre Mim
+- Desenvolvedor de Software & Estudante de Engenharia da Computação;
+- Stack principal: Vue 3 + TypeScript, C#/.NET, PHP/Laravel e workflows no-code;
+- Automação e IA: chatbots multicanais com RAG e integrações complexas;
+- Infra & DevOps: Azure, Docker, Nginx, MySQL, REST/OData e múltiplas APIs.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=00ff00)&nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;
-![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)&nbsp;
+## Stacks
 
----
+| Categorias | Tecnologias |
+|-----------------|--------------|
+| **FrontEnd & Frameworks** | ![HTML5](https://img.shields.io/badge/Markup-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/Style-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=323330) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/Library-React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D) ![Tailwind CSS](https://img.shields.io/badge/CSS-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/CSS-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/Library-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) |
+| **Backend & Frameworks** | ![C#](https://img.shields.io/badge/Language-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/Platform-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/Framework-ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![PHP](https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Framework-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?style=flat&logo=express&logoColor=white) ![Delphi](https://img.shields.io/badge/Language-Delphi-EE1F35?style=flat&logo=delphi&logoColor=white) ![REST APIs](https://img.shields.io/badge/APIs-REST-0B7285?style=flat&logo=postman&logoColor=white) |
+| **DataBases** | ![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![NoSQL](https://img.shields.io/badge/DB-NoSQL-3E3E3E?style=flat&logo=mongodb&logoColor=47A248) |
+| **AI & Automation** | ![n8n](https://img.shields.io/badge/Automation-n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![RAG](https://img.shields.io/badge/AI-RAG-444444?style=flat&logo=knowledgebase&logoColor=white) ![LLMs](https://img.shields.io/badge/AI-LLMs-5B5B5B?style=flat&logo=openai&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Server-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Cloud-Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=flat&logo=github&logoColor=white) ![Webpack](https://img.shields.io/badge/Build-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=1C78C0) ![Gulp](https://img.shields.io/badge/Build-Gulp-CF4647?style=flat&logo=gulp&logoColor=white) |
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VTZanetti&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="VTZanetti github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTZanetti&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+
+## Estatísticas do GitHub
+| Linguagens Principais | Sequência de Contribuição |
+|:-------------:|:-------------:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaqibul-Neil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Shaqibul-Neil&theme=dark&hide_border=false) |
 
 [![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VTZanetti&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
-## Contact
+## Redes Sociais
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-zanetti)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorzanetticontatos@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vtzanetti)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/vt_zanetti/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://zanetti.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorzanetti)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:vitorzanetticontatos@outlook.com)
 
 </div>
