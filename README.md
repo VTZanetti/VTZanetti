@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5B5B5B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B5B5B&size=50&center=true&vCenter=true&width=1000&lines=VITOR+ZANETTI;+Computer+Engineering;+Full-Stack+Developer;+AI+and+Automation&font=Cascadia+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B5B5B&size=50&center=true&vCenter=true&width=1000&lines=VITOR+ZANETTI;+Computer+Engineering;+Software+Developer;+AI+and+Automation&font=Cascadia+Code)](https://git.io/typing-svg)
  
 ##  About Me
 -  Software Development Intern
