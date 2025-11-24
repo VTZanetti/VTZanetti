@@ -4,7 +4,7 @@
  
 ## Sobre Mim
 - Desenvolvedor de Software & Estudante de Engenharia da Computação;
-- Stack principal: Vue 3 + TypeScript, C#/.NET e workflows low-code;
+- Stack principal: TypeScript, C#/.NET & n8n;
 - Automação e IA: chatbots multicanais com RAG e integrações complexas;
 - Infra & DevOps: Azure, Docker, Nginx, MySQL, REST/OData e múltiplas APIs.
 
